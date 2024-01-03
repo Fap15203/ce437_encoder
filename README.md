@@ -1,14 +1,14 @@
-## Cấu hình file .ioc
+# Cấu hình file .ioc
 
-GPIO:
+## GPIO:
 
   PB14, PB15 output level HIGH
 
-Timer 2:  
+## Timer 2:  
 
   Combined channels: Encoder Mode
   
-Timer 1:
+## Timer 1:
 
   Internal clock
   
