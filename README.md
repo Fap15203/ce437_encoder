@@ -16,3 +16,6 @@
   
   Channel 2: PWM Generation CH4
   
+## Kết quả code hiện tại
+
+  Xe đi lùi (R_PWM là ngược chiều động cơ)
